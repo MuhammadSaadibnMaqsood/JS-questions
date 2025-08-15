@@ -16,3 +16,22 @@
     //   }
 
     //   console.log(removeDuplicates(arr));
+
+ // Question #64
+
+    // Reverse a string with built in function 
+
+    // const str = "Saad"
+
+
+    // function reverseStr(str) {
+    //     let newStr = ''
+    //     for (let i = str.length-1; i >=0; i--) {
+    //         newStr = newStr + str[i];
+            
+
+    //     }
+    //     return newStr
+    // }
+    
+    // console.log(reverseStr(str));
